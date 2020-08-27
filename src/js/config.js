@@ -1,4 +1,5 @@
 var EBConfig = {
-    "lang" : "en"
+    "lang" : "zh-cn"
     //lang : "zh-cn"
+    //lang : "en"
 };
